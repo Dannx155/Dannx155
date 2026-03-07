@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a third year computer science student at NTNU in Trondheim with an interst for cybersecurity, backend systems and formal verification  
+I am a third-year Computer Science student at NTNU in Trondheim with an interest for cybersecurity, backend systems and formal verification  
 
-My thesis investigates formal verification in programming — using Ada/SPARK and GNATprove to prove software correctness, with examples drawn from the Ironclad project.
+My thesis explores formal verification in programming — using Ada/SPARK and GNATprove to prove software correctness, with examples drawn from the Ironclad project.
 
 ---
 
@@ -48,11 +48,11 @@ Real-time multiplayer game exploring the core challenges of networked systems: c
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Machine learning and mathematics**
+**Machine Learning & Mathematics**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Network programing and cybersecurity**
+**Network programming and cybersecurityy**
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
