@@ -23,7 +23,7 @@ My thesis investigates formal verification in programming — using Ada/SPARK an
 ## Featured Projects
 
 ### Krisefikser.no
-> Java · Spring Boot · Vue.js · SQL
+> JavaSctipt/TypeScript · Spring Boot · Vue.js · SQL
 
 Full-stack crisis preparedness application designed to help users prepare for and manage emergency situations. Separate frontend and backend architecture, real-time information sharing, and management of emergency supply inventories.
 
