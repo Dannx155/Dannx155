@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a third year computer science student at NTNU in Trondheim with an interst for cybersecurity, backend systems and formal verification  
+I am a third year computer science student at NTNU in Trondheim with an interest for cybersecurity, backend systems and formal verification  
 
 My thesis investigates formal verification in programming — using Ada/SPARK and GNATprove to prove software correctness, with examples drawn from the Ironclad project.
 
@@ -23,7 +23,7 @@ My thesis investigates formal verification in programming — using Ada/SPARK an
 ## Featured Projects
 
 ### Krisefikser.no
-> JavaSctipt/TypeScript · Spring Boot · Vue.js · SQL
+> JavaScript/TypeScript · Spring Boot · Vue.js · SQL
 
 Full-stack crisis preparedness application designed to help users prepare for and manage emergency situations. Separate frontend and backend architecture, real-time information sharing, and management of emergency supply inventories.
 
@@ -44,7 +44,8 @@ Real-time multiplayer game exploring the core challenges of networked systems: c
 > TypeScript · React Native · Expo
 
 Simple, offline‑first shopping list app 
-You can create multiple lists, add items, mark them as done and everything is stored locally on the device.
+You can create multiple lists, add items, mark them as done — everything persisted locally 
+on the device using Expo File System.
 
 [View repository →](https://github.com/Dannx155/IDATT2506-todo-app)
 
@@ -62,7 +63,7 @@ You can create multiple lists, add items, mark them as done and everything is st
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Network programing and cybersecurity**
+**Network programming and cybersecurity**
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
