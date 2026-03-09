@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a third-year Computer Science student at NTNU in Trondheim with an interest for cybersecurity, backend systems and formal verification  
+I am a third year computer science student at NTNU in Trondheim with an interst for cybersecurity, backend systems and formal verification  
 
-My thesis explores formal verification in programming — using Ada/SPARK and GNATprove to prove software correctness, with examples drawn from the Ironclad project.
+My thesis investigates formal verification in programming — using Ada/SPARK and GNATprove to prove software correctness, with examples drawn from the Ironclad project.
 
 ---
 
@@ -40,6 +40,16 @@ Real-time multiplayer game exploring the core challenges of networked systems: c
 
 ---
 
+### ToDo-app
+> TypeScript · React Native · Expo
+
+Simple, offline‑first shopping list app 
+You can create multiple lists, add items, mark them as done and everything is stored locally on the device.
+
+[View repository →](https://github.com/Dannx155/IDATT2506-todo-app)
+
+---
+
 ## Tech Stack
 
 **Fullstack development**
@@ -48,14 +58,20 @@ Real-time multiplayer game exploring the core challenges of networked systems: c
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Machine Learning & Mathematics**
+**Machine learning and mathematics**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Network programming and cybersecurityy**
+**Network programing and cybersecurity**
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Mobile development**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Tools**
 
