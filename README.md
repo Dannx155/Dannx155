@@ -40,6 +40,15 @@ Real-time multiplayer game exploring the core challenges of networked systems: c
 
 ---
 
+### Fintech Infrastructure Lab
+> Python · Kubernetes · Terraform · Grafana · Docker
+
+Local fintech platform exploring three deployment approaches: raw Kubernetes manifests, 
+Terraform IaC, and a combined workflow where Terraform provisions infrastructure and 
+Kubernetes deploys the application. Monitoring via Grafana and Prometheus.
+
+[View repository →](https://github.com/Dannx155/fintech-homelab)
+
 ### ToDo-app
 > TypeScript · React Native · Expo
 
@@ -73,6 +82,13 @@ on the device using Expo File System.
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**DevOps and infrastructure**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 **Tools**
 
